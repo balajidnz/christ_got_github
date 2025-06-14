@@ -7,8 +7,6 @@ https://github.com/saasscaleup/20-superpowers-github-repositories
 
 HTML/JS clone of the offline Chrome dinosaur game. Simple to open and play.
 
-2. Breakout Game (JS DOM)
-🔗 https://github.com/kubowania/breakout
 
 Classic breakout game using HTML/CSS/JS — easy to fork and customize.
 
