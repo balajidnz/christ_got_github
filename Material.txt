@@ -1,0 +1,29 @@
+https://github.com/saasscaleup/20-superpowers-github-repositories
+
+
+🎮 Fun Game Repositories (Clone and Play Instantly)
+1. Chrome T-Rex Runner Clone
+🔗 https://github.com/wayou/t-rex-runner
+
+HTML/JS clone of the offline Chrome dinosaur game. Simple to open and play.
+
+2. Breakout Game (JS DOM)
+🔗 https://github.com/kubowania/breakout
+
+Classic breakout game using HTML/CSS/JS — easy to fork and customize.
+
+3. Memory Card Game
+🔗 https://github.com/code-sketch/memory-card-game
+
+Card matching game with a clean UI and no setup needed.
+
+4. Flappy Bird Clone (Python - Pygame)
+🔗 https://github.com/sourabhv/FlapPyBird
+
+Clone of Flappy Bird using Python + Pygame.
+
+🛠️ GitHub Training / Hackathon Repo
+5. 50 Projects in 50 Days (JS Mini Projects)
+🔗 https://github.com/bradtraversy/50projects50days
+
+A collection of 50 small HTML/CSS/JS projects
